@@ -1,0 +1,9 @@
+---
+layout:post
+date:2018-1-30
+title:aboutLaravel
+tags:laravel
+---
+###一、编程是技能，不是知识，技能只有在不断练习下才会有进步。
+	windows下安装mongodb的步骤
+	1、
